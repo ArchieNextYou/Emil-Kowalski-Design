@@ -1,0 +1,11 @@
+{
+  "name": "emil-design",
+  "description": "Design-engineering and motion skills from Emil Kowalski: UI polish, Apple-style fluid motion, animation vocabulary, and read-only motion audits.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Emil Kowalski"
+  },
+  "homepage": "https://animations.dev/",
+  "repository": "https://github.com/emilkowalski/skills",
+  "skills": "./skills/"
+}

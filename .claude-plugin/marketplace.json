@@ -1,0 +1,25 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "emil-design",
+  "metadata": {
+    "description": "Emil Kowalski's design-engineering and motion skills, packaged as an installable Claude Code plugin."
+  },
+  "owner": {
+    "name": "Archie",
+    "email": "archie@nextyoulabs.io"
+  },
+  "plugins": [
+    {
+      "name": "emil-design",
+      "description": "Design-engineering and motion skills from Emil Kowalski: UI polish, Apple-style fluid motion, animation vocabulary, and read-only motion audits.",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "Emil Kowalski"
+      },
+      "homepage": "https://animations.dev/",
+      "category": "design",
+      "tags": ["design", "animation", "motion", "ui", "frontend"]
+    }
+  ]
+}
